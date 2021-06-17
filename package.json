@@ -1,0 +1,14 @@
+{
+  "name": "@fusionstrings/packages",
+  "version": "0.1.1",
+  "exports": {
+    ".": "./packages.js",
+    "./react": "./react/react.js"
+  },
+  "repository": "https://github.com/fusionstrings/packages.git",
+  "author": "Dilip Kr. Shukla",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.13.1"
+  }
+}
